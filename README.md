@@ -1,0 +1,2 @@
+# crowdworks-new-jobs-scraper
+CrowdWorksの新着案件を取得してCSVで管理するPythonスクリプト
